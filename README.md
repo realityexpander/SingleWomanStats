@@ -1,4 +1,4 @@
-# SingleWomanStats
+# Single Woman Stats
 Supporting Documents for Video
 
 - When looking at age and gender together, 63% of men under 30 describe themselves as single, compared with 34% of women in the same age group
