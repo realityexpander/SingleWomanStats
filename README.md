@@ -35,3 +35,5 @@ Supporting Documents for Video
   - https://ifstudies.org/blog/promiscuous-america-smart-secular-and-somewhat-less-happy#:~:text=Five%20percent%20of%20women%20have,figure%20for%20men%20is%20150
 - Tinder Stats
   - https://thebolditalic.com/the-two-worlds-of-tinder-f1c34e800db4
+
+![Profile Views](https://komarev.com/ghpvc/?username=SingleWomanStats)
